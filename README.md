@@ -7,6 +7,7 @@ This mod enables the Motion Blur override in the Post Processing Volume, while a
 \
 Btw, this is also my first mod ever :3
 
+- [Project Link](https://github.com/RiskiVR/Lethal_MotionBlur)
 - [Thunderstore](https://thunderstore.io/c/lethal-company/p/RiskiVR/MotionBlur/)
 
 ## Feedback & Contact
