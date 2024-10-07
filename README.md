@@ -1,6 +1,6 @@
 # Motion Blur for Lethal Company
 
-<img src="https://github.com/RiskiVR/Lethal_MotionBlur/blob/media/images/Lethal_MotionBlur.gif" width="100%">
+<img src="https://raw.githubusercontent.com/RiskiVR/Lethal_MotionBlur/53cc09b1959bb388aa6126fa91562430d9036032/images/Lethal_MotionBlur.gif" width="100%">
 
 ## What does it do?
 This mod enables the Motion Blur override in the Post Processing Volume, while also enabling Motion Vectors in HDRP Settings.
