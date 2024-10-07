@@ -12,3 +12,7 @@ Btw, this is also my first mod ever :3
 ## Feedback & Contact
 - Discord: riskivr
 - Email: riskivrmusic@gmail.com
+
+## Credits & Acknowledgements
+- [RiskiVR](https://riskivr.com) - Main mod developer
+- [Zehs](https://thunderstore.io/c/lethal-company/p/Zehs/) / [ZehsTeam](https://github.com/ZehsTeam) - LethalConfig scripts & help :3
